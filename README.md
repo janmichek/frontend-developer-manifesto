@@ -1,4 +1,4 @@
-# Bot Builder Frontend Manifesto
+# Frontend Developer Manifesto
 The set of evergreen rules, best practices, commonly mistaken concepts and personal preferences in structured form
 
 ## Key Concepts
