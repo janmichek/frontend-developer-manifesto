@@ -1071,9 +1071,6 @@ pretty -> formatted
 
 `Delete Entity` -> Are you sure? modal -> `Delete Entity Forever`
 
-## UI menu naming convention
-![Bez-názvu-1](https://user-images.githubusercontent.com/15363559/112287306-23da1a80-8c84-11eb-8a4c-b324ca3b4c2a.jpg)
-
 
 
 
