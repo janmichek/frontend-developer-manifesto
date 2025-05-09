@@ -8,11 +8,11 @@ The set of evergreen rules, best practices, commonly mistaken concepts and perso
 
 **Components** - are reusable, isolated UI elements
 
-**Clean Code** - evergreen universal programming hints https://cleancoders.com/  -> accommodated for JS https://github.com/ryanmcdermott/clean-code-javascript/
+**Clean Code** - evergreen universal programming hints, its mostly good to use them https://cleancoders.com/  -> accommodated for JS https://github.com/ryanmcdermott/clean-code-javascript/
 
-**Desktop First** - Only optimizing for 1024px width, IE 10+
+**Desktop First** - Unless the requirements asks the opposite.
 
-Things that cannot be automated written here. If you go around some unaligned code, feel free tor refactor little bit.
+Things that cannot be automated are written here. If you go around some unaligned code, feel free to refactor little bit. It's always nice to do a bit of code cleanup
 
 
 ## Styles
