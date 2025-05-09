@@ -462,34 +462,3 @@ BotCard.vue
 DialogueActionMenu.vue
 TrainingButton.vue
 ```
-
-
-
-## Pinia
-
-### Prefix unadapted data
- 
-`raw` as an input for data manipulation (getter) we need to somehow manipulate. 
-
-
-
-
-**❌ Bad:**
-
-```
- const details = ref(null)
-
- const detailsFomatted = computed(() => adaptDetails(details .value)
-
-```
-
-**✔️ Good:**
-
-```
- const rawDetails = ref(null)
-
- const details = computed(() => adaptDetails(rawDetails.value)
-```
-
-
-
